@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   MailgunInSwift provides simple alternative when you need to send an email with your iOS app using MailGun.
                    DESC
 
-  s.homepage     = "https://github.com/KevinAo22/MailgunInSwift"
+  s.homepage       = "https://github.com/KevinAo22/MailgunInSwift"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
