@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "MailgunInSwift"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "A simple alternative when you need to send an email with your iOS app using MailGun."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/KevinAo22/MailgunInSwift.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/KevinAo22/MailgunInSwift.git", :tag => "1.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
